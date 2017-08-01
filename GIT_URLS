@@ -1,0 +1,6 @@
+	url = ssh://git@lws-git.bskyb.com/SAL/cbs-catalogue-evaluation-service-acceptance-test.git
+	url = ssh://git@lws-git.bskyb.com/SAL/cbs-catalogue-evaluation-service.git
+	url = ssh://git@lws-git.bskyb.com/SAL/cbs-sales-abstraction-layer-mock.git
+	url = ssh://git@lws-git.bskyb.com/SAL/cbs-sales-interaction-service-acceptance-test.git
+	url = ssh://git@lws-git.bskyb.com/SAL/cbs-sales-interaction-service.git
+
